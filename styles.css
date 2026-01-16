@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+}
+
+div {
+    width: 280px;
+    background-color: aliceblue;
+    text-align: right
+}
+
+.centered {
+    text-align: center;
+}
